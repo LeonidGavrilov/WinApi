@@ -1,0 +1,15 @@
+﻿  WindowsProjectДЗ.cpp
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(62,44): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(63,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(64,31): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(65,37): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(66,45): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(68,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(69,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(71,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(71,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(73,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(73,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(100,15): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Админ\Desktop\WindowsProjectДЗ\WindowsProjectДЗ.cpp(104,15): warning C4305: -=: усечение из "double" в "float"
+  WindowsProjectДЗ.vcxproj -> C:\Users\Админ\Desktop\WindowsProjectДЗ\Debug\WindowsProjectДЗ.exe

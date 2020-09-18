@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Админ\Desktop\lab4(dop)\Source.cpp(50,96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\lab4(dop)\Source.cpp(50,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\lab4(dop)\Source.cpp(50,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\lab4(dop)\Source.cpp(50,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\lab4(dop)\Source.cpp(68,6): warning C4101: hdc: неиспользованная локальная переменная
+C:\Users\Админ\Desktop\lab4(dop)\Source.cpp(135,19): warning C4101: tp: неиспользованная локальная переменная
+  lab4(dop).vcxproj -> C:\Users\Админ\Desktop\lab4(dop)\Debug\lab4(dop).exe

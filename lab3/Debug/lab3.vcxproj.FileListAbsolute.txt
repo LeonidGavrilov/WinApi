@@ -1,0 +1,2 @@
+C:\Users\Админ\Desktop\lab3\Debug\lab3.exe
+C:\Users\Админ\Desktop\lab3\Debug\lab3.pdb
